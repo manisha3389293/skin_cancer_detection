@@ -9,13 +9,11 @@ A deep learning project that classifies skin lesion images as **malignant** or *
 - [Overview](#overview)
 - [Dataset](#dataset)
 - [Project Structure](#project-structure)
-- [Requirements](#requirements)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Model Architecture](#model-architecture)
 - [Results](#results)
 - [Technologies Used](#technologies-used)
-- [References](#references)
 
 ---
 
