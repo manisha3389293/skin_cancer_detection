@@ -1,1 +1,1 @@
-# skin_cancer
+# skin_cancer_detection
